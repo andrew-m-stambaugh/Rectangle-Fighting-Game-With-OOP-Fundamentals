@@ -1,5 +1,3 @@
-// YOU DEFINITELY NEED TO MODIFY THIS FILE.
-
 #include "model.hxx"
 
 Model::Model()
